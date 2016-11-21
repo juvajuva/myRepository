@@ -1,7 +1,7 @@
 <php?
 phpinfo();
 
-xx  yy
+xx  yy zZ
 
 zzz
 
