@@ -1,5 +1,5 @@
 <php?
 phpinfo();
 
-xxx
+xx  yy
 
